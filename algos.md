@@ -1,8 +1,8 @@
-**hashmap**: 
-1. Twosum for a target
+# hashmap
+Twosum for a target
 
-**Bitwise**
+# Bitwise
 Bitwise operations requires right shift and & with 1
 
-**Dynamic Programming**
+# Dynamic Programming
 single dp for memoization and prefixing
