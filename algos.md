@@ -4,5 +4,6 @@ Twosum for a target
 # Bitwise
 Bitwise operations requires right shift and & with 1
 
-# Dynamic Programming
-single dp for memoization and prefixing
+# Dynamic Programming 
+1. Its lru_cache in Python for linear DP
+2. single dp for memoization and prefixing
